@@ -1,0 +1,38 @@
+{
+  "digest": {
+    "md5": "95555853d356f9f6fc9de5c0975bfd74",
+    "sha1": "1a7855f860da8d949a706b6aac36dc8905a3a116",
+    "sha256": "dba59dfdd2494530f2b3e51811464b495cf9f224d05969bad5f3c32796830536",
+    "sha512": "3a874604a69fdd7a9249577cb2e07e1b293eb16eb14fe00e01925be875e73ccf6676acd0ab5bab2ce9ed1a1fff06b4f185ecd0c27760f12955c17fa7cdd451b4"
+  },
+  "metadata": [
+    {
+      "key": "stability",
+      "value": "stable"
+    },
+    {
+      "key": "type",
+      "value": "bosh-compiled-release"
+    },
+    {
+      "key": "stemcell_os",
+      "value": "ubuntu-trusty"
+    },
+    {
+      "key": "stemcell_version",
+      "value": "3263.7"
+    },
+    {
+      "key": "version",
+      "value": "2.1.3"
+    }
+  ],
+  "name": "openvpn-2.1.3-on-ubuntu-trusty-stemcell-3263.7.tgz",
+  "origin": [
+    {
+      "uri": "https://s3.amazonaws.com/dpb587-bosh-release-openvpn-us-east-1/compiled_releases/openvpn-2.1.3-on-ubuntu-trusty-stemcell-3263.7-compiled-1.20161127085157.0.tgz"
+    }
+  ],
+  "size": 5871607,
+  "time": "2016-11-27T08:51:57Z"
+}
