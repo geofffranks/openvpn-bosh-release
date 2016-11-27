@@ -1,0 +1,30 @@
+{
+  "digest": {
+    "md5": "e560a8fda2b74d2d7da7a77930f77066",
+    "sha1": "5b6df0edf9e644e89f7044e6391340a8b10889be",
+    "sha256": "5b44c632f6c34d126dee125122963781826c10bd2a906052eb1afa743433d4ac",
+    "sha512": "0e1d1d5e3ee72156a9c6ba1d2e4ff2cf6de630b69c1398bdc9e97758e03045caa0135f6bdc000e7c166cddace749564a372a587c13c72d91ddfa60569deebe3b"
+  },
+  "metadata": [
+    {
+      "key": "stability",
+      "value": "stable"
+    },
+    {
+      "key": "type",
+      "value": "bosh-source-release"
+    },
+    {
+      "key": "version",
+      "value": "2.1.2"
+    }
+  ],
+  "name": "openvpn-2.1.2.tgz",
+  "origin": [
+    {
+      "uri": "https://s3.amazonaws.com/dpb587-bosh-release-openvpn-us-east-1/releases/openvpn-2.1.2.tgz"
+    }
+  ],
+  "size": 7104963,
+  "time": "2016-11-27T07:00:25Z"
+}
