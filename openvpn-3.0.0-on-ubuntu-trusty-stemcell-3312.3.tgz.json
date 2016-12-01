@@ -1,9 +1,9 @@
 {
   "digest": {
-    "md5": "e2d4f0e99e1de66a518b2a1a55563391",
-    "sha1": "ddb36604f1ce3227fdc574bc7ffe6b4ba95f9386",
-    "sha256": "79fd7b29973c6c6ccd12f48d30af57cfc0e6aa02594191bd9f86be2639a2fcf8",
-    "sha512": "d189c79c41ff2336e95dbe0000622fb5795327d5edd1126653bbf34ed63b9b1c145a5f162bdc43245ea8286a15d0bc00de74033635e4d550e34858cdbd9c95ab"
+    "md5": "5642bb95c69726365eb0f6f5965232d8",
+    "sha1": "d821141c8842822cc8f732433450f5b7a654bf18",
+    "sha256": "680b2995bac6325793cabbba7c65b0e12b428f7654e04bdce41ab6230da29e76",
+    "sha512": "df42d3a9d78ed4f728add9e6b24ba9054e1803fe4ea6b8a27a69acb2ba1735c3df50fad62c7ae1700df14d558bca07b0576fe0c6d7ee71d9d00afdf11edd07b4"
   },
   "metadata": [
     {
@@ -30,9 +30,9 @@
   "name": "openvpn-3.0.0-on-ubuntu-trusty-stemcell-3312.3.tgz",
   "origin": [
     {
-      "uri": "https://s3.amazonaws.com/dpb587-bosh-release-openvpn-us-east-1/compiled_releases/openvpn-3.0.0-on-ubuntu-trusty-stemcell-3312.3-compiled-1.20161201031214.0.tgz"
+      "uri": "https://s3.amazonaws.com/dpb587-bosh-release-openvpn-us-east-1/compiled_releases/openvpn-3.0.0-on-ubuntu-trusty-stemcell-3312.3-compiled-1.20161201092826.0.tgz"
     }
   ],
-  "size": 5884460,
-  "time": "2016-12-01T03:12:14Z"
+  "size": 5884569,
+  "time": "2016-12-01T09:28:26Z"
 }
