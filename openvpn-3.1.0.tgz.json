@@ -1,0 +1,30 @@
+{
+  "digest": {
+    "md5": "d49c67ced2a5284f5aa651be14e9b83d",
+    "sha1": "2c5a5ba2b46b56ef1e9141369a0cdd672d9c61c5",
+    "sha256": "7767db16152b2c9e1a3a675b713ac2398ef6450f12fa5287b596f99233411bb3",
+    "sha512": "eb0658285ce8af9bf52ea16a96c21c34613d3e910f61d9b681bc0feab6004ba0298234a94a1baf4fbf98128d6fdc46ad2aff50656c573519d0d961f2d620f1a7"
+  },
+  "metadata": [
+    {
+      "key": "stability",
+      "value": "stable"
+    },
+    {
+      "key": "type",
+      "value": "bosh-source-release"
+    },
+    {
+      "key": "version",
+      "value": "3.1.0"
+    }
+  ],
+  "name": "openvpn-3.1.0.tgz",
+  "origin": [
+    {
+      "uri": "https://s3.amazonaws.com/dpb587-bosh-release-openvpn-us-east-1/releases/openvpn-3.1.0.tgz"
+    }
+  ],
+  "size": 7134160,
+  "time": "2016-12-01T09:09:35Z"
+}
