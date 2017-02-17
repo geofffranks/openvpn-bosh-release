@@ -1,0 +1,38 @@
+{
+  "digest": {
+    "md5": "7f02ecaa9bc055144da21626b5bc91f8",
+    "sha1": "49eed7e7c2faa6e97292b103f50565c9d3c0614a",
+    "sha256": "e69bc1217529050fce6f24ce98745da0ea6ba2822b945c02636d1f12776a4b29",
+    "sha512": "2f33a07e54799babde5259e6981dc00328b781c100963d44e751b3b635247c945a6a48a4aaa094f263eb1cdcb3b456192fcbbe17e5a619bf96e63166270463f6"
+  },
+  "metadata": [
+    {
+      "key": "stability",
+      "value": "stable"
+    },
+    {
+      "key": "type",
+      "value": "bosh-compiled-release"
+    },
+    {
+      "key": "stemcell_os",
+      "value": "ubuntu-trusty"
+    },
+    {
+      "key": "stemcell_version",
+      "value": "3363"
+    },
+    {
+      "key": "version",
+      "value": "3.1.0"
+    }
+  ],
+  "name": "openvpn-3.1.0-on-ubuntu-trusty-stemcell-3363-compiled-1.20170217010412.0.tgz",
+  "origin": [
+    {
+      "uri": "https://s3.amazonaws.com/dpb587-bosh-release-openvpn-us-east-1/compiled_releases/openvpn-3.1.0-on-ubuntu-trusty-stemcell-3363-compiled-1.20170217010412.0.tgz"
+    }
+  ],
+  "size": 5886748,
+  "time": "2017-02-17T01:04:12Z"
+}
